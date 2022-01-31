@@ -1,0 +1,40 @@
+body {
+  background-color: powderblue;
+  margin: 2%;
+  font-family: 'Sarala', sans-serif;
+}
+
+.titulo {
+  font-size: 60px;
+  text-align: center;
+}
+
+.subtitulo {
+    margin-bottom: -1em;
+    text-align: center;
+}
+.identidade {
+    text-align: center;
+    margin: 2em 2em 2em 2em;
+    border-width: 20px;
+}
+h4 {
+  font-size: 1em;
+}
+
+.pagamento {
+  line-height: 1em;
+}
+
+.tabela {
+  table-layout: auto;
+  width: 50%;
+}
+
+.video {
+    margin: 43%;
+    border-style: dotted;
+    position: relative;
+    top: 5em;
+    display: inline-block;
+}
